@@ -1,4 +1,4 @@
-# Algorithms and Data Structures
+# Algorithms and Data Structures (Long)
 
 * Know at least one programming language and the concept of object / pointers.  
 * Algorithms and data structures in increasing order of difficulty.
@@ -8,6 +8,8 @@
 ### Linear Data Structures:
   - [x] Arrays
   - [ ] Linked List
+    - [quora](https://www.quora.com/How-do-you-explain-linked-lists-in-laymans-terms)
+    - [SO](https://stackoverflow.com/questions/644167/what-is-a-practical-real-world-example-of-the-linked-list)
   - [ ] Stack
   - [ ] Queues
 
@@ -58,7 +60,7 @@
   - [ ] General Tree
   - [ ] Lowest Common Ancestor
 
-### Binary Search Tree
+### Binary Search Tree (BST)
   - [ ] Inorder Traversal
   - [ ] Level order traversal
   - [ ] Finding kth largest element, diameter, depth, number of nodes, etc.
@@ -95,25 +97,18 @@
 ## Advanced 
 
 ## Trees and Graphs
-
 * Balanced Trees
     * AVL
     * Red-Black
-
 * Heavy Light Decomposition, B+ Trees, Quad Tree
-
 * Advance Graph
     * Min Cut
     * Max Flow
 
 * Maximum Matching - Hall's Marriage
-
 * Hamiltonian Cycle
-
 * Edge Graphs / Line Graphs
-
 * Strongly Connected Components
-
 * Dominant Sub-Graph, Vertex Cover, Travelling Salesman - Approx algos
 
 ### String Algorithms
