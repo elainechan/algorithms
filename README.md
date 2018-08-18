@@ -1,3 +1,6 @@
+# Algorithms
+[Run the Jupyter notebooks on Binder](https://mybinder.org/v2/gh/elainechan/algorithms/master)
+
 ## Notes
 
 ### Divide and Conquer
