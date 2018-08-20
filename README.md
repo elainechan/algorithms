@@ -44,6 +44,10 @@
 	- Priority Queue/heap
 
 ## Resources
+- [Big O Cheatsheet](http://bigocheatsheet.com/)
+- [HackerRank](https://www.hackerrank.com/)
+
+## Competition Resources
 - [Stanford intro to programming contests](http://web.stanford.edu/class/cs97si/)
 - [USCAO Olympiads](http://train.usaco.org/usacogate?a=e2IlxKa7a9I)
 - [Peking Online Judge](http://poj.org/)
